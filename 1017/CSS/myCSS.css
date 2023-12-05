@@ -1,0 +1,14 @@
+@charset "utf-8";
+.fluid {
+    width: 100%;
+}
+.SiteTitle {
+    text-align: center;
+    color: #AB2ACD;
+    font-size: 80px;
+    font-style: normal;
+}
+.Banner  {
+    width: 100%;
+    height: 250px;
+}
